@@ -4,6 +4,31 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #5f015d;
+    background-color: #ddc4d4;
   }
+  h1 {
+    color:#eabf02;
+    font-size: 200%;
+  }
+
+  #content {
+    background-color: #ddc4d4;
+    width: 50%;
+
+  }
+
+  #morecontent {
+    background-color: #57d1ef;
+    width: 50%;
+   
+
+  }
+  img {
+    width: 600px;
+  }
+  #Class {
+    display: flex;
+  }
+
+  /*font-size: 200%*/
