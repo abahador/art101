@@ -5,5 +5,8 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #DDD8C4;
+    background-color: #ddc4d8;
+  }
+  img {
+    width: 600px;
   }
