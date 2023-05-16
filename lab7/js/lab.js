@@ -28,6 +28,6 @@ function sortUserName () {
   }
   
 // output
-document.writeln("I fixed your name: ",
-    sortUserName(), "</br>");
+//document.writeln("I fixed your name: ",
+    //sortUserName(), "</br>");
   
