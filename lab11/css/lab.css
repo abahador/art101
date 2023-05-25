@@ -3,7 +3,7 @@
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
 
 .special {
-  background-color: purple
+  background-color: purple;
 }
 .minor-section {
     padding: 10px;
